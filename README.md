@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Website/APP
 
-- 📫 How to reach me: newpanjing@icloud.com、Wechat：PAN02040108
-- 😄 Pronouns: [simpleui](https://github.com/newpanjing/simpleui)、[Gofound](https://github.com/newpanjing/simpleui)
-- ⚡ My Blog: [https://www.88cto.com](https://www.88cto.com)
+- 📫 How to reach me: newpanjing@icloud.com
+- 😄 Pronouns: [simplepro](https://www.mldoo.com/simplepro)、[simpleui](https://github.com/newpanjing/simpleui)、[Gofound](https://github.com/newpanjing/simpleui)
+- ⚡ My Blog: [https://panblogs.com](https://panblogs.com)
 
